@@ -1,0 +1,3 @@
+[submodule "flags"]
+	path = flags
+	url = git@github.com:oxguy3/flags.git

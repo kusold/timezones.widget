@@ -1,0 +1,15 @@
+{
+  "name": "timezones.widget",
+  "version": "0.0.1",
+  "description": "t",
+  "main": "timezones.js",
+  "dependencies": {
+    "luxon": "^1.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Kusold <hello@mikekusold.com> (https://mikekusold.com)",
+  "license": "MIT"
+}
